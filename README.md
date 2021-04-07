@@ -42,11 +42,11 @@ We will examine here in 5 parts.
 ![](https://github.com/dogukaan/userinterfacespecificationdocumentPiWORKS/blob/main/userlist.png)
 
 > - User Details
->   - 1. Sorting by ID button
->   - 2. Sorting by User Name button
->   - 3.  Sorting by Email button
->   - 4. Sorting by User Status
->   - 5. Show User List
+> 1. Sorting by ID button
+> 2. Sorting by User Name button
+> 3.  Sorting by Email button
+> 4. Sorting by User Status
+> 5. Show User List
 
 #### 1. Sorting by ID button
 ![](https://github.com/dogukaan/userinterfacespecificationdocumentPiWORKS/blob/main/ID.png)
