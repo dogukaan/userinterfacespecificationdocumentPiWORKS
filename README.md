@@ -14,18 +14,18 @@ To make the features of the given user interface understandable and codable for 
 ## User interface
 We divide the user interface given to us into three parts
 ![](https://github.com/dogukaan/userinterfacespecificationdocumentPiWORKS/blob/main/alltopics.png)
-1. Part 1 Top bar
-2. Part 2 User information
-3. Part 3 New user form
+* Part 1 Top bar
+* Part 2 User information
+* Part 3 New user form
 
 ### PART 1 Top Bar
 ![](https://github.com/dogukaan/userinterfacespecificationdocumentPiWORKS/blob/main/topbar.png)
 
 We will examine the ball bar in 3 parts.
  -Top Bar
-  1.New User button
-  2.Hide disabled  users button
-  3.Save user button
+  1. New User button
+  2. Hide disabled  users button
+  3. Save user button
 
 #### 1. New User Button
 When the new user button is pressed, the new user adding panel opens and the necessary information is entered in the panel (we will examine this in the third part). 
@@ -44,7 +44,7 @@ We will examine here in 5 parts.
 > - User Details
 > 1. Sorting by ID button
 > 2. Sorting by User Name button
-> 3.  Sorting by Email button
+> 3. Sorting by Email button
 > 4. Sorting by User Status
 > 5. Show User List
 
