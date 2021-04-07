@@ -22,7 +22,7 @@ We divide the user interface given to us into three parts
 ![](https://github.com/dogukaan/userinterfacespecificationdocumentPiWORKS/blob/main/topbar.png)
 
 We will examine the ball bar in 3 parts.
- -Top Bar
+ * Top Bar
   1. New User button
   2. Hide disabled  users button
   3. Save user button
@@ -79,12 +79,12 @@ We will examine here in 6 parts.
 ![](https://github.com/dogukaan/userinterfacespecificationdocumentPiWORKS/blob/main/newuserregister.png)
 
 >- New User Register
-> -1. Username Textbox
-> -2. Display Name Textbox
-> -3. Phone Textbox
-> -4. Email Textbox
-> -5. User Role Menu
-> -6. User Status Checkbox
+> 1. Username Textbox
+> 2. Display Name Textbox
+> 3. Phone Textbox
+> 4. Email Textbox
+> 5. User Role Menu
+> 6. User Status Checkbox
 
 #### Username Textbox
 The username of the user to be registered is entered here.
