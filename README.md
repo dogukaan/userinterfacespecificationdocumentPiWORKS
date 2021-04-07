@@ -14,9 +14,9 @@ To make the features of the given user interface understandable and codable for 
 ## User interface
 We divide the user interface given to us into three parts
 ![](https://github.com/dogukaan/userinterfacespecificationdocumentPiWORKS/blob/main/alltopics.png)
-                       *Part 1 Top bar
-                       *Part 2 User information
-                       *Part 3 New user form
+                       * Part 1 Top bar
+                       * Part 2 User information
+                       * Part 3 New user form
 
 ### PART 1 Top Bar
 ![](https://github.com/dogukaan/userinterfacespecificationdocumentPiWORKS/blob/main/topbar.png)
